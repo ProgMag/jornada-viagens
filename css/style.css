@@ -1,3 +1,15 @@
+:root {
+    --brackground-primary-color: #ffffff;
+    --brackground-secondary-color: #F5F5F5;
+    --brackground-tertiary-color: #000000;
+
+    --butoon-primary-color: #8F0101;
+    --butoon-secondary-color: #B81515;
+
+    --text-primary-color: #222222;
+    --text-secondary-color: #ffffff;
+}
+
 body,
 img,
 h1,
